@@ -52,7 +52,7 @@ Technologies used:
   <br>
 
 <a href="https://github.com/justinneyugn/Javascript_Project#readme" title="Octet" target="_blank">
-    <img alt src="https://github.com/justinneyugn/Javascript_Project/blob/main/images/project_pic.png" style="width: 300px;">
+    <img alt src="https://github.com/justinneyugn/HPIC/blob/main/images/project_picture.png" style="width: 300px;">
 </a>
 
 Technologies used:
