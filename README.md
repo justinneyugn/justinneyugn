@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Recent Software Engineer Graduate from App Academy \
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp;Passionate with problem solving and debugging \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for dance, travel, and nightlife \
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Love for dance, travel, and food \
 &nbsp;&nbsp;&nbsp;:smile: &nbsp;Pronouns: He/Him/His 
 
 <p align="center">
